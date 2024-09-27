@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Discogs based .cue generator for vinyl rips**
 - 🤯 I’m currently learning **Spring, Java EE**
-- 📝 Sometimes I post articles on [https://www.audiosciencereview.com/forum/index.php?members/redfox.48154/](https://www.audiosciencereview.com/forum/index.php?members/redfox.48154/)
+- 📝 Sometimes I post articles on [Audio Science Review](https://www.audiosciencereview.com/forum/index.php?members/redfox.48154/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
