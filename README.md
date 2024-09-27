@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 🦊, I'm Arkadii</h1>
+<h1 align="center">Hi there! I'm Arkadii 🦊</h1>
 <h3 align="center">Silly foxxo passionate about hardware and audio...</h3>
 
 - 🔭 I’m currently working on **Discogs based .cue generator for vinyl rips**
