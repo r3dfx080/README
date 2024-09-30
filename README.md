@@ -1,5 +1,6 @@
 <h1 align="center">Hi there! I'm Arkadii 🦊</h1>
 <h3 align="center">Silly foxxo passionate about hardware and audio...</h3>
+<h4 align="center">If laziness was the engine of progress, I would be Nikola Tesla</h4>
 
 - 🔭 I’m currently working on **Discogs based .cue generator for vinyl rips**
 - 🤯 I’m currently learning **Spring, Java EE**
